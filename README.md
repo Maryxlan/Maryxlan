@@ -1,5 +1,13 @@
-### Hi there 👋
+## Maryxlan :alien:
 
+## Webdeveloper/Frontend Designer  
+
+I am a webdeveloper and graduated with a bachelor's degree in computer science. My passion is to combine unique design with practical usability and solving real-life problems. User experience is also important to me and I have a passion for creating eye-catching and engaging websites. I am also passionate about composing music in my spare time and producing music with Ableton.
+
+
+## :star2: Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,php,mysql,github,vscode,pug,ableton&theme=dark)](https://skillicons.dev)
 <!--
 **Maryxlan/Maryxlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
